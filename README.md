@@ -7,3 +7,8 @@ A simple Next.JS that features a popup window that pops up when the page is load
 ```
 npm run dev
 ```
+
+## Tools/programming language used
+- Next.JS
+- useEffect
+- Components
